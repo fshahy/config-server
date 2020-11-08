@@ -8,11 +8,11 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ir.delifery</groupId>
-	<artifactId>Food-DeliFery-Config-Server</artifactId>
+	<groupId>fshahy</groupId>
+	<artifactId>DeliFery-Config-Server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Food-DeliFery-Config-Server</name>
-	<description>Provides Configuration for Food DeliFery Microservices</description>
+	<name>DeliFery-Config-Server</name>
+	<description>Provides Configuration for DeliFery Microservices</description>
 
 	<properties>
 		<java.version>11</java.version>
